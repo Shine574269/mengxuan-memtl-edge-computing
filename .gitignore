@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+.gradle/
+.idea/
+local.properties
+.env
+*.keystore
+*.jks
