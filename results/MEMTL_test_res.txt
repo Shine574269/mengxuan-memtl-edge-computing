@@ -1,0 +1,96 @@
+mu_num=2, head_num=2, subset_size=30000, shared_train_size=30000
+MEMTL prediction cost 0.0163ms per sample, 0.0290/0.8220 overall cost 1.1042
+MTL   prediction cost 0.0137ms per sample, 0.0288/0.9388 overall cost 1.0057
+mu_num=2, head_num=3, subset_size=30000, shared_train_size=30000
+MEMTL prediction cost 0.0160ms per sample, 0.0116/0.9448 overall cost 1.0068
+MTL   prediction cost 0.0142ms per sample, 0.0288/0.9388 overall cost 1.0057
+mu_num=2, head_num=4, subset_size=30000, shared_train_size=30000
+MEMTL prediction cost 0.0175ms per sample, 0.0108/0.9468 overall cost 1.0051
+MTL   prediction cost 0.0133ms per sample, 0.0288/0.9388 overall cost 1.0057
+mu_num=2, head_num=5, subset_size=30000, shared_train_size=30000
+MEMTL prediction cost 0.0189ms per sample, 0.0103/0.9496 overall cost 1.0035
+MTL   prediction cost 0.0128ms per sample, 0.0288/0.9388 overall cost 1.0057
+
+
+mu_num=3, head_num=2, subset_size=40000, shared_train_size=40000
+MEMTL prediction cost 0.0156ms per sample, 0.0658/0.7085 overall cost 2.0739
+MTL   prediction cost 0.0122ms per sample, 0.0399/0.8725 overall cost 1.8745
+mu_num=3, head_num=3, subset_size=40000, shared_train_size=40000
+MEMTL prediction cost 0.0175ms per sample, 0.0380/0.8624 overall cost 1.8901
+MTL   prediction cost 0.0115ms per sample, 0.0399/0.8725 overall cost 1.8745
+mu_num=3, head_num=4, subset_size=40000, shared_train_size=40000
+MEMTL prediction cost 0.0197ms per sample, 0.0336/0.8759 overall cost 1.8741
+MTL   prediction cost 0.0127ms per sample, 0.0399/0.8725 overall cost 1.8745
+mu_num=3, head_num=5, subset_size=40000, shared_train_size=40000
+MEMTL prediction cost 0.0207ms per sample, 0.0324/0.8783 overall cost 1.8726
+MTL   prediction cost 0.0124ms per sample, 0.0399/0.8725 overall cost 1.8745
+
+
+mu_num=4, head_num=2, subset_size=70000, shared_train_size=70000
+MEMTL prediction cost 0.0134ms per sample, 0.0757/0.6683 overall cost 3.1831
+MTL   prediction cost 0.0144ms per sample, 0.0561/0.8034 overall cost 2.9394
+mu_num=4, head_num=3, subset_size=70000, shared_train_size=70000
+MEMTL prediction cost 0.0187ms per sample, 0.0469/0.8115 overall cost 2.9299
+MTL   prediction cost 0.0346ms per sample, 0.0561/0.8034 overall cost 2.9394
+mu_num=4, head_num=4, subset_size=70000, shared_train_size=70000
+MEMTL prediction cost 0.0167ms per sample, 0.0392/0.8440 overall cost 2.8849
+MTL   prediction cost 0.0122ms per sample, 0.0561/0.8034 overall cost 2.9394
+mu_num=4, head_num=5, subset_size=70000, shared_train_size=70000
+MEMTL prediction cost 0.0177ms per sample, 0.0365/0.8522 overall cost 2.8732
+MTL   prediction cost 0.0120ms per sample, 0.0561/0.8034 overall cost 2.9394
+
+
+mu_num=5, head_num=2, subset_size=90000, shared_train_size=90000
+MEMTL prediction cost 0.0145ms per sample, 0.1039/0.5504 overall cost 4.4542
+MTL   prediction cost 0.0121ms per sample, 0.0653/0.7494 overall cost 3.9558
+mu_num=5, head_num=3, subset_size=90000, shared_train_size=90000
+MEMTL prediction cost 0.0151ms per sample, 0.0628/0.7531 overall cost 4.0325
+MTL   prediction cost 0.0133ms per sample, 0.0653/0.7494 overall cost 3.9558
+mu_num=5, head_num=4, subset_size=90000, shared_train_size=90000
+MEMTL prediction cost 0.0172ms per sample, 0.0571/0.7653 overall cost 3.9965
+MTL   prediction cost 0.0115ms per sample, 0.0653/0.7494 overall cost 3.9558
+mu_num=5, head_num=5, subset_size=90000, shared_train_size=90000
+MEMTL prediction cost 0.0194ms per sample, 0.0552/0.7722 overall cost 3.9871
+MTL   prediction cost 0.0124ms per sample, 0.0653/0.7494 overall cost 3.9558
+
+
+mu_num=6, head_num=2, subset_size=190000, shared_train_size=190000
+MEMTL prediction cost 0.0183ms per sample, 0.1535/0.6226 overall cost 141.4171
+MTL   prediction cost 0.0129ms per sample, 0.0787/0.7865 overall cost 230084.6094
+mu_num=6, head_num=3, subset_size=190000, shared_train_size=190000
+MEMTL prediction cost 0.0157ms per sample, 0.0645/0.7886 overall cost 229959.2188
+MTL   prediction cost 0.0144ms per sample, 0.0787/0.7865 overall cost 230084.6094
+mu_num=6, head_num=4, subset_size=190000, shared_train_size=190000
+MEMTL prediction cost 0.0176ms per sample, 0.0586/0.8023 overall cost 229929.7344
+MTL   prediction cost 0.0120ms per sample, 0.0787/0.7865 overall cost 230084.6094
+mu_num=6, head_num=5, subset_size=190000, shared_train_size=190000
+MEMTL prediction cost 0.0190ms per sample, 0.0543/0.8089 overall cost 229930.3750
+MTL   prediction cost 0.0127ms per sample, 0.0787/0.7865 overall cost 230084.6094
+
+
+mu_num=7, head_num=2, subset_size=240000, shared_train_size=240000
+MEMTL prediction cost 0.0145ms per sample, 0.1309/0.6319 overall cost 9403.7148
+MTL   prediction cost 0.0116ms per sample, 0.0819/0.7798 overall cost 8521.8975
+mu_num=7, head_num=3, subset_size=240000, shared_train_size=240000
+MEMTL prediction cost 0.0161ms per sample, 0.0667/0.7833 overall cost 8806.1006
+MTL   prediction cost 0.0129ms per sample, 0.0819/0.7798 overall cost 8521.8975
+mu_num=7, head_num=4, subset_size=240000, shared_train_size=240000
+MEMTL prediction cost 0.0180ms per sample, 0.0602/0.7981 overall cost 8892.1494
+MTL   prediction cost 0.0129ms per sample, 0.0819/0.7798 overall cost 8521.8975
+mu_num=7, head_num=5, subset_size=240000, shared_train_size=240000
+MEMTL prediction cost 0.0211ms per sample, 0.0568/0.8034 overall cost 8892.1592
+MTL   prediction cost 0.0131ms per sample, 0.0819/0.7798 overall cost 8521.8975
+
+
+mu_num=8, head_num=2, subset_size=290000, shared_train_size=290000
+MEMTL prediction cost 0.0147ms per sample, 0.4470/0.3139 overall cost 689658.5000
+MTL   prediction cost 0.0107ms per sample, 0.0845/0.7445 overall cost 665640.5625
+mu_num=8, head_num=3, subset_size=290000, shared_train_size=290000
+MEMTL prediction cost 0.0166ms per sample, 0.0754/0.7488 overall cost 665175.3750
+MTL   prediction cost 0.0122ms per sample, 0.0845/0.7445 overall cost 665640.5625
+mu_num=8, head_num=4, subset_size=290000, shared_train_size=290000
+MEMTL prediction cost 0.0165ms per sample, 0.0672/0.7671 overall cost 664954.4375
+MTL   prediction cost 0.0124ms per sample, 0.0845/0.7445 overall cost 665640.5625
+mu_num=8, head_num=5, subset_size=290000, shared_train_size=290000
+MEMTL prediction cost 0.0202ms per sample, 0.0636/0.7729 overall cost 664938.8750
+MTL   prediction cost 0.0122ms per sample, 0.0845/0.7445 overall cost 665640.5625
